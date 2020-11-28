@@ -5,7 +5,8 @@
   "editor.lineHeight": 24,
   "workbench.colorTheme": "Visual Studio Dark - C++",
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": true,
+    "editor.formatOnSave": false
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
